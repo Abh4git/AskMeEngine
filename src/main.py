@@ -43,12 +43,13 @@ while True:
         if keyboard.is_pressed('c'):
             currentQuestion = questionsList[random.randint(0, number_of_questions)]
             questionsList.remove(currentQuestion)
+            #number_of_questions = number_of_questions-1
             number_of_questions = number_of_questions-1
             #calready_askedList.append(currentQuestion)c
             engine.say(currentQuestion)
             engine.runAndWait()
             engine.stop()
-        elif keyboard.is_pressed('e'):
+        elif keyboard.is_pressed('ctrl+e'):
 
             print("\nyou pressed Esc, so exiting...")
             engine.runAndWait()
