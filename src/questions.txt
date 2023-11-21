@@ -1,0 +1,45 @@
+What are the Eigen values and eigen vectors? How do you know it is an eigen vector of a transformation matrix? Can you give an example?
+How do you do dimensionality reduction?
+What is a null vector?  What is the zero vector for null space?
+Can you connect rank of a Matrix with the nullity of a matrix?
+What is the usage of dot product? How do you get Similarity score of two vectors?
+What are the the set of solutions for 3*3 matrix?
+What is the role of SVD?
+What are the applications of eigenvalues in engineering?
+What is the role of convolution layer in CNN?
+What is the research problem you are working on?
+What was the objective of the research?
+How to know if a matrix is invertible?
+Will A and A transpose have the same rank?
+Explain solution in terms of rank of coefficient matrix and augmented matrix?
+What is free variable?
+What is span?
+What is basis?
+What is orthogonality?
+What is the connection between linear independence and orthogonality?
+What does convolution do exactly?
+What are the different types of kernels?
+What is meant by overfitting?
+What is difference between correlation and convolutions?
+How to solve a system of equations?
+How do we know if the system of equations have a solution?
+What is an augmented Matrix?
+Explain the solution in terms of the coefficient matrix and the augmented matrix?
+What is a free variable?
+What is the connection between linear independence and orthogonality?
+What is a vector space?
+What is the dimension of R4?
+What is the role of SVD?
+What Is the geometrical significance of SVD?
+What are the applications of eigenvalues in engineering?
+What is the role of convolution layer in CNN?
+What is difference between correlation and convolutions?
+What is a transformation matrix?
+What is Training Error and and Testing Error and how does it matter?
+What is confusion matrix?
+Can you explain the concept of eigenvalues and eigenvectors in the context of linear transformations?
+What is gradient descent?
+What is the bias-variance tradeoff in the context of machine learning models? How does it impact model performance?
+What are loss functions in machine learning?
+What is feature engineering?
+Can you connect rank of a Matrix with the nullity of a matrix?
